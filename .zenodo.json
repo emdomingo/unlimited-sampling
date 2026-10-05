@@ -1,0 +1,17 @@
+{
+  "title": "Unlimited Sampling Beyond Modulo: An Exploration",
+  "upload_type": "software",
+  "access_right": "open",
+  "license": "mit",
+  "creators": [
+    { "name": "Domingo, Edward John" }
+  ],
+  "description": "<p>An exploration of the paper \"Unlimited Sampling Beyond Modulo\" (Azar, Mulleti and Eldar, 2025).</p><p>The archive contains the main Jupyter notebook with the experiments, a cache of the experimental sweep results, a summary table of the results (CSV), and a presentation deck of the findings.</p>",
+  "keywords": [
+    "unlimited sampling",
+    "modulo sampling",
+    "signal reconstruction",
+    "analog-to-digital conversion",
+    "sampling theory"
+  ]
+}
