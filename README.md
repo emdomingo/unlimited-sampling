@@ -1,6 +1,6 @@
-# Unlimited Sampling Exploration
+﻿# Unlimited Sampling Exploration
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.[CONCEPT].svg)](https://doi.org/10.5281/zenodo.[CONCEPT])
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23160095.svg)](https://doi.org/10.5281/zenodo.23160095)
 
 ## Contents
 - [Notebook: unlimited-sampling-b2r2.ipynb](unlimited-sampling-b2r2.ipynb): main exploration and experiments
